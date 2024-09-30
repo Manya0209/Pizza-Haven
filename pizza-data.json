@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "price": 200,
+      "desc": "Classic Italian pizza with tomato sauce, mozzarella cheese, and basil leaves.",
+      "url": "https://example.com/margherita.jpg",
+      "isAddedInCart": false
+    },
+    {
+      "id": 2,
+      "name": "Pepperoni Pizza",
+      "price": 250,
+      "desc": "A favorite with pepperoni slices, mozzarella cheese, and tomato sauce.",
+      "url": "https://example.com/pepperoni.jpg",
+      "isAddedInCart": false
+    },
+    {
+      "id": 3,
+      "name": "Vegetarian Pizza",
+      "price": 220,
+      "desc": "Loaded with assorted veggies like bell peppers, onions, olives, and mushrooms.",
+      "url": "https://example.com/vegetarian.jpg",
+      "isAddedInCart": false
+    },
+    {
+      "id": 4,
+      "name": "BBQ Chicken Pizza",
+      "price": 280,
+      "desc": "Topped with BBQ sauce, grilled chicken, onions, and cilantro.",
+      "url": "https://example.com/bbq_chicken.jpg",
+      "isAddedInCart": false
+    },
+    {
+      "id": 5,
+      "name": "Supreme Pizza",
+      "price": 300,
+      "desc": "A combination of pepperoni, sausage, bell peppers, onions, and olives.",
+      "url": "https://example.com/supreme.jpg",
+      "isAddedInCart": false
+    },
+    {
+      "id": 6,
+      "name": "Hawaiian Pizza",
+      "price": 240,
+      "desc": "Featuring pineapple, ham, and mozzarella cheese.",
+      "url": "https://example.com/hawaiian.jpg",
+      "isAddedInCart": false
+    },
+    {
+      "id": 7,
+      "name": "Mushroom Pizza",
+      "price": 230,
+      "desc": "Loaded with mushrooms and mozzarella cheese.",
+      "url": "https://example.com/mushroom.jpg",
+      "isAddedInCart": false
+    },
+    {
+      "id": 8,
+      "name": "Meat Lovers Pizza",
+      "price": 290,
+      "desc": "For the meat enthusiasts with pepperoni, sausage, bacon, and ham.",
+      "url": "https://example.com/meat_lovers.jpg",
+      "isAddedInCart": false
+    },
+    {
+      "id": 9,
+      "name": "White Pizza",
+      "price": 260,
+      "desc": "A pizza without tomato sauce, featuring garlic, ricotta cheese, and spinach.",
+      "url": "https://example.com/white.jpg",
+      "isAddedInCart": false
+    },
+    {
+      "id": 10,
+      "name": "Four Cheese Pizza",
+      "price": 270,
+      "desc": "Featuring a blend of mozzarella, cheddar, provolone, and parmesan cheeses.",
+      "url": "https://example.com/four_cheese.jpg",
+      "isAddedInCart": false
+    },
+    {
+      "id": 11,
+      "name": "Veggie Delight Pizza",
+      "price": 230,
+      "desc": "Packed with all the veggie goodness including bell peppers, onions, tomatoes, and olives.",
+      "url": "https://example.com/veggie_delight.jpg",
+      "isAddedInCart": false
+    },
+    {
+      "id": 12,
+      "name": "Buffalo Chicken Pizza",
+      "price": 280,
+      "desc": "Featuring spicy buffalo sauce, grilled chicken, and mozzarella cheese.",
+      "url": "https://example.com/buffalo_chicken.jpg",
+      "isAddedInCart": false
+    },
+    {
+      "id": 13,
+      "name": "Spinach and Feta Pizza",
+      "price": 250,
+      "desc": "A vegetarian option with spinach, feta cheese, and garlic.",
+      "url": "https://example.com/spinach_feta.jpg",
+      "isAddedInCart": false
+    },
+    {
+      "id": 14,
+      "name": "Pesto Pizza",
+      "price": 270,
+      "desc": "Featuring basil pesto sauce, tomatoes, and mozzarella cheese.",
+      "url": "https://example.com/pesto.jpg",
+      "isAddedInCart": false
+    },
+    {
+      "id": 15,
+      "name": "Sausage and Mushroom Pizza",
+      "price": 260,
+      "desc": "A hearty combination of sausage, mushrooms, and mozzarella cheese.",
+      "url": "https://example.com/sausage_mushroom.jpg",
+      "isAddedInCart": false
+    }
+  ]
+  
